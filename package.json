@@ -1,0 +1,17 @@
+{
+  "name": "new-hunter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "opencv-build": "build-opencv --incDir C:\\opencv\\build\\include --libDir C:\\opencv\\build\\x64\\vc14\\lib --binDir C:\\opencv\\build\\x64\\vc14\\bin --nobuild rebuild"
+  },
+  "author": "varun",
+  "license": "ISC",
+  "dependencies": {
+    "keysender": "^2.3.0",
+    "node-screenshots": "^0.2.0",
+    "screenshot-desktop": "^1.15.0"
+  }
+ 
+}
