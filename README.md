@@ -35,7 +35,7 @@ Although this project is specifically tested on "Pokémon Ultra Sun," it can be 
 
    keyTime: change the Key time based on your emulator Emulation speed current one is for 175% emulation speed 
 
-#Running the Project
+##Running the Project
 
 1. Start the Python TCP server:
  
@@ -45,7 +45,7 @@ Although this project is specifically tested on "Pokémon Ultra Sun," it can be 
 
   node main.js
 
-#How It Works
+##How It Works
 
 1. Node.js Script (main.js):  
 
@@ -63,7 +63,7 @@ Although this project is specifically tested on "Pokémon Ultra Sun," it can be 
    Sends the detection result back to the Node.js script.
 
 
-#Troubleshooting
+##Troubleshooting
 
    Ensure that the game window title matches the ApplicationName specified in settings.js.
    Ensure that the Python server is running before starting the Node.js script.
